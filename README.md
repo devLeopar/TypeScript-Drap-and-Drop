@@ -1,0 +1,1 @@
+Educational drag and drop project written with typescript
